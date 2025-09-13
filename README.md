@@ -27,13 +27,13 @@ A full-stack e-commerce project built with Postgres, Express, React and Node.
 Clone the project
 
 ```bash
-  git clone https://github.com/dhatguy/PERN-Store.git
+  git clone  https://github.com/Harshiii9848/PERN-WEB.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd PERN-Store
+  cd PERN-WEB
 ```
 
 Install dependencies
@@ -98,9 +98,6 @@ To deploy this project run
   npm run deploy
 ```
 
-Check this article for [guidance](https://dev.to/stlnick/how-to-deploy-a-full-stack-mern-app-with-heroku-netlify-ncb)
-on how to deploy.
-
 ## Tech
 
 - [React](https://reactjs.org/)
@@ -163,3 +160,4 @@ To run this project, you will need to add the following environment variables to
 ## Feedback
 Demo Link: [https://pern-store.netlify.app](https://pern-store.netlify.app)
 # PERN-WEB
+
