@@ -161,10 +161,5 @@ To run this project, you will need to add the following environment variables to
 5. Open a Pull Request
 
 ## Feedback
-
-Joseph Odunsi - [@odunsi](https://twitter.com/_odunsi_) - odunsiolakunbi@gmail.com
-
-Project Link: [https://github.com/dhatguy/PERN-Store](https://github.com/dhatguy/PERN-Store)
-
 Demo Link: [https://pern-store.netlify.app](https://pern-store.netlify.app)
 # PERN-WEB
